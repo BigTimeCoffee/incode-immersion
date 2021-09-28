@@ -1,5 +1,5 @@
-function displayName(fname, sname);
-console.log("The name's, " + sname + fname + sname);
+function displayName(firstName, lastName) {
+    console.log(`The Name's ${lastName}, ${firstName} ${lastName}.`);
+}
 
-displayName(Padraig, Dowling);
-console.log('hello world');
+displayName("Padraig", "Dowling");
