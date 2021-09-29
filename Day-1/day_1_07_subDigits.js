@@ -1,4 +1,4 @@
-function subDigits(number) {
+/*function subDigits(number) {
     if (number >= 0) {
         console.log(number - 3);
     } else {
@@ -7,3 +7,8 @@ function subDigits(number) {
 }
 
 subDigits(-1);
+
+Wrong!
+Couldn't do!
+
+
